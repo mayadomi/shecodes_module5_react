@@ -1,4 +1,20 @@
-#root {
+.app {
+  background: #6b469a;
+  padding: 50px;
+  height: 100vh;
+}
+
+.todo-list {
+  background: #e8e8e8;
+  padding: 5px;
+  max-width: 400px;
+}
+
+
+
+
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +55,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
